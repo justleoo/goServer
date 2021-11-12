@@ -3,5 +3,6 @@
 
 ### Run:
 ```console
-go run```
+go run
+```
 <img src="https://bobbewegt.com/images/8DLNosj4fMYMCd0eOaGmaQAAAA.jpg">

@@ -1,7 +1,7 @@
 # goServer
-## 📚 › My first go app.
+## my first go app.
 
-### Run:
+### run:
 ```console
 go run
 ```
